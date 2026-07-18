@@ -146,18 +146,3 @@ This project demonstrates how to:
 - Train convolutional neural networks
 - Visualize predictions and model performance
 
----
-
-## 🔮 Future Improvements
-
-- Experiment with deeper CNN architectures (ResNet-50, EfficientNet)
-- Add confusion matrix and classification report
-- Hyperparameter tuning
-- Early stopping
-- Model checkpointing
-- Grad-CAM visualization
-- Deploy the model using Streamlit or Flask
-
----
-
-⭐ If you found this project useful, consider giving it a star!
