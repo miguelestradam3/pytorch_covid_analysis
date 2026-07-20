@@ -124,11 +124,7 @@ Launch Jupyter Notebook:
 jupyter notebook
 ```
 
-Open:
-
-```
-Complete Notebook.ipynb
-```
+Open the jupyter notebook.
 
 Run the notebook cells sequentially to reproduce the complete deep learning workflow.
 
